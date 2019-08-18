@@ -72,4 +72,7 @@ It redistributes some third party libraries:
 * ASM (http://asm.ow2.org), under BSD Licence
 * Google Guava (https://github.com/google/guava), under Apache License 2.0
 
+
+##### This is another test
+
 All licenses for ArchUnit and redistributed libraries can be found within the [licenses](licenses) folder.
