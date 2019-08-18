@@ -34,7 +34,8 @@ testCompile 'com.tngtech.archunit:archunit:0.10.2'
 #### Create a test
 
 ```java
-import com.tngtech.archunit.core.domain.JavaClasses;
+i
+mport com.tngtech.archunit.core.domain.JavaClasses;
 import com.tngtech.archunit.core.importer.ClassFileImporter;
 import com.tngtech.archunit.lang.ArchRule;
 
@@ -59,6 +60,8 @@ public class MyArchitectureTest {
 For further information, check out the user guide at [http://archunit.org](http://archunit.org) 
 or test examples for the current release at
 [ArchUnit Examples](https://github.com/TNG/ArchUnit-Examples).
+
+###### This is a test
 
 ## License
 
